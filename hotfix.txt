@@ -1,0 +1,1 @@
+Este es un parche para solucionar el error crítico detectado
